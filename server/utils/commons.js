@@ -13,6 +13,7 @@ const json5 = require('json5');
 const _ = require('underscore');
 const Ajv = require('ajv');
 const Mock = require('mockjs');
+const stringUtils = require('../../common/power-string.js').utils;
 
 
 
